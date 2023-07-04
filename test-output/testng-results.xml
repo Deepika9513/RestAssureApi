@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-03T20:36:58 IST" name="Default suite" finished-at="2023-07-03T20:37:12 IST" duration-ms="14274">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T20:36:58 IST" name="Default test" finished-at="2023-07-03T20:37:12 IST" duration-ms="14274">
+      <class name="gitrestassure1.githubrest">
+        <test-method signature="create_a_userrepo()[pri:1, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:36:58 IST" name="create_a_userrepo" finished-at="2023-07-03T20:37:01 IST" duration-ms="3387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_a_userrepo -->
+        <test-method signature="update()[pri:2, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:01 IST" name="update" finished-at="2023-07-03T20:37:02 IST" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method signature="get_repo()[pri:3, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:02 IST" name="get_repo" finished-at="2023-07-03T20:37:03 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_repo -->
+        <test-method signature="delete_repo()[pri:4, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:03 IST" name="delete_repo" finished-at="2023-07-03T20:37:03 IST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_repo -->
+        <test-method signature="create_forks()[pri:5, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:03 IST" name="create_forks" finished-at="2023-07-03T20:37:04 IST" duration-ms="653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_forks -->
+        <test-method signature="list_forks()[pri:6, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:04 IST" name="list_forks" finished-at="2023-07-03T20:37:04 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- list_forks -->
+        <test-method signature="list_repo()[pri:7, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:04 IST" name="list_repo" finished-at="2023-07-03T20:37:05 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- list_repo -->
+        <test-method signature="listrepo_language()[pri:8, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:05 IST" name="listrepo_language" finished-at="2023-07-03T20:37:05 IST" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listrepo_language -->
+        <test-method signature="listpblic_repo()[pri:9, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:05 IST" name="listpblic_repo" finished-at="2023-07-03T20:37:06 IST" duration-ms="999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listpblic_repo -->
+        <test-method signature="create_or_updatefile()[pri:10, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:06 IST" name="create_or_updatefile" finished-at="2023-07-03T20:37:07 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_or_updatefile -->
+        <test-method signature="delete_file()[pri:11, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:07 IST" name="delete_file" finished-at="2023-07-03T20:37:08 IST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_file -->
+        <test-method signature="listrepo_tags()[pri:12, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:08 IST" name="listrepo_tags" finished-at="2023-07-03T20:37:08 IST" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listrepo_tags -->
+        <test-method signature="getall_repotopics()[pri:13, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:08 IST" name="getall_repotopics" finished-at="2023-07-03T20:37:09 IST" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getall_repotopics -->
+        <test-method signature="create_autolink()[pri:14, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:09 IST" name="create_autolink" finished-at="2023-07-03T20:37:10 IST" duration-ms="1390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_autolink -->
+        <test-method signature="getan_autolinkreference()[pri:15, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:10 IST" name="getan_autolinkreference" finished-at="2023-07-03T20:37:11 IST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getan_autolinkreference -->
+        <test-method signature="delete_autolinkreference()[pri:16, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:11 IST" name="delete_autolinkreference" finished-at="2023-07-03T20:37:11 IST" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_autolinkreference -->
+        <test-method signature="geta_repo()[pri:17, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:11 IST" name="geta_repo" finished-at="2023-07-03T20:37:12 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geta_repo -->
+        <test-method signature="replaceall_repo()[pri:18, instance:gitrestassure1.githubrest@272ed83b]" started-at="2023-07-03T20:37:12 IST" name="replaceall_repo" finished-at="2023-07-03T20:37:12 IST" duration-ms="591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- replaceall_repo -->
+      </class> <!-- gitrestassure1.githubrest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
